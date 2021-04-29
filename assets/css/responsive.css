@@ -1,0 +1,101 @@
+@media only screen and (max-width: 996px) {
+    #primary {
+        width: 100%;
+    }
+    #secondary{
+        float: unset;
+        clear: both;
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .mfooter{
+        display: block;
+    }
+    #primary {
+        width: 100%;
+    }
+    #secondary{
+        float: unset;
+        clear: both;
+        width: 100%;
+    }
+    .bsb .left-side, .left-side a img{
+        height: 150px;
+    }
+    .right-side h4{
+        font-size: 12px;
+    }
+    .entry-content p{
+        font-size: 10px;
+    }
+    footer#colophon section{
+        width: 100%;
+    }
+    .changemenu{
+        border: unset;
+        margin-bottom: 20px;
+    }
+    .post-info i, .post-info{
+        font-size: 8px;
+    }
+    button.navbar-toggler {
+        border: unset;
+        color: red;
+        outline: none;
+    }
+    .menu-menu-1-container ul li {
+        border: 1px solid #e9ecef;
+    }
+    ul#menu-menu-1 .dropdown-menu{
+        margin: unset;
+    }
+    .soiclashare i {
+        padding: 0 5px;
+        font-size: 10px;
+    }
+    .entry-content{
+        margin-bottom: unset;
+    }
+    .navigation {
+        position: relative;
+        left: 50%;
+        transform: translate(-50%);
+        bottom: 115px;
+        width: 100%;
+    }
+    .navigation li a{
+        padding: 0px 7px;
+        font-size: 10px;
+    }
+    .inner-posts-thumb{
+        width: unset;
+    }
+    .site-branding{
+        padding:unset;
+    }
+    .ipb, .archieveheader, .searchheader{
+        margin-top:-40px;
+    }
+    .inner-post-content p {
+        font-size: 14px;
+    }
+    .inner-post-content h1 {
+        font-size: 20px;
+    }
+    .inner-post-content .post-data-info p{
+        font-size: 12px;
+    }
+    #comments p{
+        display: unset;
+    }
+    #comments .comment-form-comment textarea{
+        margin-left: unset;
+    }
+    .post-info p {
+        padding: 3px;
+    }
+    .errorwidgets{
+        display: unset;
+    }
+}
